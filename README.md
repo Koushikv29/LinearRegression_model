@@ -1,2 +1,4 @@
 # LinearRegression_model
-Implementing Linear regression-Machine learning model to predict total sales of a company when money spent on advertising on TV, Radio and newspapers. Analyzing how the money spent on independent variables impact total sales of a company
+Using Linear Regression algorithm to train and test data to make predictions
+Handling the outliers using IQR method
+Getting the r2 score to 91%
